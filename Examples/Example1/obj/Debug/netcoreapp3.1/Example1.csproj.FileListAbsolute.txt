@@ -1,0 +1,13 @@
+C:\Webinar\Why OOP Matters\Examples\Example1\bin\Debug\netcoreapp3.1\Example1.exe
+C:\Webinar\Why OOP Matters\Examples\Example1\bin\Debug\netcoreapp3.1\Example1.deps.json
+C:\Webinar\Why OOP Matters\Examples\Example1\bin\Debug\netcoreapp3.1\Example1.runtimeconfig.json
+C:\Webinar\Why OOP Matters\Examples\Example1\bin\Debug\netcoreapp3.1\Example1.runtimeconfig.dev.json
+C:\Webinar\Why OOP Matters\Examples\Example1\bin\Debug\netcoreapp3.1\Example1.dll
+C:\Webinar\Why OOP Matters\Examples\Example1\bin\Debug\netcoreapp3.1\Example1.pdb
+C:\Webinar\Why OOP Matters\Examples\Example1\obj\Debug\netcoreapp3.1\Example1.csprojAssemblyReference.cache
+C:\Webinar\Why OOP Matters\Examples\Example1\obj\Debug\netcoreapp3.1\Example1.AssemblyInfoInputs.cache
+C:\Webinar\Why OOP Matters\Examples\Example1\obj\Debug\netcoreapp3.1\Example1.AssemblyInfo.cs
+C:\Webinar\Why OOP Matters\Examples\Example1\obj\Debug\netcoreapp3.1\Example1.csproj.CoreCompileInputs.cache
+C:\Webinar\Why OOP Matters\Examples\Example1\obj\Debug\netcoreapp3.1\Example1.dll
+C:\Webinar\Why OOP Matters\Examples\Example1\obj\Debug\netcoreapp3.1\Example1.pdb
+C:\Webinar\Why OOP Matters\Examples\Example1\obj\Debug\netcoreapp3.1\Example1.genruntimeconfig.cache
