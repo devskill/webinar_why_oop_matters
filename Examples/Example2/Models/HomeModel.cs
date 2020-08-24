@@ -12,16 +12,19 @@ namespace Example2.Models
         public string UserPicture { get; set; }
         private readonly DataProvider _dataProvider;
         private readonly IConfiguration _configuration;
+        private readonly IPathService _pathService;
 
-        public HomeModel(IConfiguration configuration)
+        public HomeModel(IConfiguration configuration, IPathService pathService)
         {
             _dataProvider = new DataProvider();
             _configuration = configuration;
+            _pathService = pathService;
         }
 
         public void LoadData()
         {
-            UserPicture = _dataProvider.GetUserPicture(1);
+            var prefix = _pathService.UserPictureFolder;
+            UserPicture = $"{prefix}{_dataProvider.GetUserPicture(1)}";
         }
     }
 }

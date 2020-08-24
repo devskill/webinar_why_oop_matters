@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Example2.Models;
 using Microsoft.Extensions.Configuration;
+using Example2.Code;
 
 namespace Example2.Controllers
 {
@@ -23,7 +24,7 @@ namespace Example2.Controllers
 
         public IActionResult Index()
         {
-            var model = new HomeModel(_configuration);
+            var model = new HomeModel(_configuration, new InternetPathService());
             model.LoadData();
             return View(model);
         }
